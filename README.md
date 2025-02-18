@@ -5,6 +5,7 @@
 💡 Passionate about Python, data science, and observational astronomy.
 
 
-## 📊 GitHub Stats  
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe285695&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe285695&layout=compact&theme=radical)  
+## 🛠️ Languages and Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
